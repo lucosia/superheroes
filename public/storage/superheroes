@@ -1,1 +1,3 @@
 /superheroes/storage/app/public/superheroes
+
+This fold should be a symbolic link to the folder above in order to show hero's images on screen
